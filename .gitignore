@@ -6,6 +6,7 @@
 .phpactor.json
 .phpunit.result.cache
 /.codex
+./opecode/
 /.cursor/
 /.idea
 /.nova
@@ -28,3 +29,4 @@ Thumbs.db
 
 # PostgreSQL dumps (local)
 docker/pgbackup/
+.opencode/
